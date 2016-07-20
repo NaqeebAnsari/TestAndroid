@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retret", "retret\retret.csproj", "{CEFFC3D5-7334-4740-B9D8-AFFB440904FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFFC3D5-7334-4740-B9D8-AFFB440904FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFFC3D5-7334-4740-B9D8-AFFB440904FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFFC3D5-7334-4740-B9D8-AFFB440904FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFFC3D5-7334-4740-B9D8-AFFB440904FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
